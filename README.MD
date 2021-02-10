@@ -11,3 +11,5 @@
 [![](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/MewtwoTver_Bot "https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram")
 [![](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)](https://t.me/sao_telegramChat "https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram")
 [![](https://img.shields.io/badge/Github-Discussion-brightgreen?logo=github)](https://github.com/Inspekt0r/FishermanByMrPilot/discussions)
+
+[![](https://github.com/Inspekt0r/FishermanByMrPilot/labels/help-wanted)](https://img.shields.io/github/issues/Inspekt0r/FishermanByMrPilot/help-wanted)
